@@ -1,2 +1,4 @@
 # hello-world
-my first project
+
+just delete my orginal description.
+hello, my name is oceanJu.
